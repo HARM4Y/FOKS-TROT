@@ -5,7 +5,8 @@
 [![Issue](https://img.shields.io/badge/Issue-welcome-blue.svg "Issue")](https://github.com/hkx3upper/FOKS-TROT/issues "Issue")  
 <a href="https://github.com/hkx3upper/FOKS-TROT"><img align="right" width="231" height="117" src="https://user-images.githubusercontent.com/41336794/172169698-65afd346-38c4-4fd6-861b-20940a6ee493.jpg" alt="FOKS-TROT"></a></br>
 # FOKS-TROT  
-## 基于Minifilter框架的双缓冲透明加解密驱动  
+## 基于Minifilter框架的双缓冲透明加解密驱动 
+## ZL 202210549949.1 基于密文挪用的文件透明加解密方法及系统 专利权人 山东大学  
 ## It's a minifilter used for transparent-encrypting. <a href="https://github.com/hkx3upper/FOKS-TROT/wiki/Foxtrot">English</a>  
 
 ## Foreword：
